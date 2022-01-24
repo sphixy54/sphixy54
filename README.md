@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sphixy54
 - 👀 I’m interested in game dev ! 
 - 🌱 I’m currently learning  GAME DEV !
-- 💞️ I’m looking to collaborate on  a game !
+- 💞️ I’m looking to collaborate on  nothing
 - 📫 How to reach me ? you cant 
 
 <!---
